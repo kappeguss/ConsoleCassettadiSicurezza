@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\bin\Debug\net6.0\CassettaDiSicurezza_Console.exe
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\bin\Debug\net6.0\CassettaDiSicurezza_Console.deps.json
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\bin\Debug\net6.0\CassettaDiSicurezza_Console.runtimeconfig.json
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\bin\Debug\net6.0\CassettaDiSicurezza_Console.dll
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\bin\Debug\net6.0\CassettaDiSicurezza_Console.pdb
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\CassettaDiSicurezza_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\CassettaDiSicurezza_Console.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\CassettaDiSicurezza_Console.AssemblyInfo.cs
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\CassettaDiSicurezza_Console.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\CassettaDiSicurezza_Console.dll
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\refint\CassettaDiSicurezza_Console.dll
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\CassettaDiSicurezza_Console.pdb
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\CassettaDiSicurezza_Console.genruntimeconfig.cache
+C:\Users\user\source\repos\CassettaDiSicurezza_Console\obj\Debug\net6.0\ref\CassettaDiSicurezza_Console.dll
